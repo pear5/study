@@ -1,0 +1,7 @@
+body{background: #f1f4f9;font-family:"Microsoft Yahei";}
+.container{padding-left: 10%;padding-right: 10%}
+.header{background:#3295d9;padding-top: 20px;padding-bottom: 20px;width: 100%;height: 100px;vertical-align: top;}
+   .menus{list-style: none;}
+   a:link{text-decoration: none;color: red;}
+   .menus{float: right;max-resolution: 5px;width:80px;text-align: center;padding:30px;border-bottom: 3px;font-size: 16px;line-height: 15px;}
+.menus a{display: block}

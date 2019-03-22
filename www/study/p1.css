@@ -1,0 +1,19 @@
+h1
+{
+background-color:#000080;
+color: aliceblue;
+}
+
+h2
+{background-color: aquamarine;
+color: rgb(108, 18, 168);
+}
+
+p{color: blue}
+
+pre
+{
+    background-color:#000080;
+    background-image: url(https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/1e30e924b899a90163228dc716950a7b0208f528.jpg);
+    color: aliceblue;
+}

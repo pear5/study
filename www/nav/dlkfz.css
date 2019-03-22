@@ -1,0 +1,90 @@
+body {
+    background: #f1f4f9;
+    font-family: "Microsoft Yahei";
+    margin: 0;
+    font-size: 13px;
+}
+
+.page-header {
+    height: 50px;
+    line-height: 50px;
+    background-color: #fff;
+    box-shadow: 0 0 5px #00000080;
+}
+
+.page-header>.logo {
+    display: inline-block;
+    font-size: 16px;
+    padding: 0 20px;
+    font-weight: bold;
+}
+
+.page-header>.nav {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.page-header>.nav>.nav-list {
+}
+
+.page-header .nav-list>a {
+    display: inline-block;
+    padding: 0 10px;
+    vertical-align: top;
+    background: blue;
+    /* line-height: 30px; */
+    margin: 0 -1px;
+}
+.page-header .nav-list>a:hover {
+   background: #f00;
+}
+
+.page-header .nav-list>a{
+   background: #0f0;
+}
+
+.container {
+    padding: 0 10%;
+}
+
+.header {
+    background: #3295d9;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    height: 100px;
+    vertical-align: top;
+}
+
+#zhudaohang {
+    list-style: none;
+}
+
+a:link {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+#zhudaohang li {
+    float: right;
+    max-resolution: 5px;
+    width: 80px;
+    text-align: center;
+    padding: 30px;
+    border-bottom: 3px;
+    font-size: 16px;
+    line-height: 15px;
+}
+
+#zhudaohang li a {
+    display: block
+}
+
+.content-sidebar {
+    width: 20%;
+    height: 500px;
+    vertical-align: left;
+    padding-top: 35px;
+    font-size: 15px;
+    line-height: 35px;
+}
